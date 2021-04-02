@@ -13,7 +13,6 @@ I am also the Co-Director of Engineering and Informatics at [Pramanta Sciences](
 # Posts
 
 * [Particle Swarm Optimisation](2020-06-20-Particle-Swarm.md) 
-
 * [Gaussian Process Tutorial](2020-06-21-Gaussian-Processes.md)
 * [Linear Regression Shrinkage Methods](2020-06-21-Linear-Regression.md)
 * [Computational Fluid Dynamics](2020-06-21-Reactor-Validation.md)
