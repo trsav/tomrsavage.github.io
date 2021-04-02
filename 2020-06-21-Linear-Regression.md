@@ -1,14 +1,5 @@
----
-title:  "Linear Regression - Shrinkage Methods"
-layout: single
-author_profile: true 
-excerpt: "An visualisation of different linear regression shrinkage (or regularisation) techniques, adapted from examples described in the book 'Elements of Statistical Learning' "
-header:
-  overlay_image: /assets/images/LassoParams.png
-  overlay_filter: rgba(140,140,140, 0.5)
-  caption: "Lasso regression parameters"
-classes: wide
----
+
+# Linear Regression - Shrinkage Methods
 
 ## An analysis of shrinkage methods for linear regression (adapted from 'Elements of Statistical Learning')
 
