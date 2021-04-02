@@ -1,14 +1,6 @@
----
-title:  "Adaptive Step-size Euler Method - A Visualisation"
-layout: single
-author_profile: true 
-excerpt: "A visualisation of the adaptive step-size Euler method produced using Plot.ly. Hopefully the first in a series on numerical integration."
-header:
-  overlay_image: /assets/images/int_header.png
-  overlay_filter: rgba(140,140,140, 0.5)
-  caption: "Dynamic, nonisothermal, semi-batch reactor start up."
-classes: wide
----
+
+Adaptive Step-size Euler Method - A Visualisation
+
 
 
 
