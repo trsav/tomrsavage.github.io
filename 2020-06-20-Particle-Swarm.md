@@ -1,15 +1,3 @@
----
-title:  "Particle Swarm Optimisation within Python"
-layout: single
-author_profile: true 
-excerpt: "An implementation of particle swarm optimisation in Python"
-header:
-  overlay_image: /assets/images/PSOtopology.png
-  overlay_filter: rgba(140,140,140, 0.5)
-  caption: "Particle swarm topologies"
-classes: wide
----
-
 Below is the README.md file for a particle swarm optimisation GitHub repository that I produced about a year ago. It can be found [here](https://github.com/tomrsavage/particleswarm).
 
 <p align="center">
