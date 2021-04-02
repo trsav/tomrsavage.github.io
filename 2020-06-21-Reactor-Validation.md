@@ -1,14 +1,5 @@
----
-title:  "Computational Fluid Dynamics: There and Back Again"
-layout: single
-author_profile: true 
-excerpt: "A brief computational fluid dynamics validation of a gas-liquid heterogenous reactor, adapted from my BEng Design Project thesis."
-header:
-  overlay_image: /assets/images/CFDPATH.PNG
-  overlay_filter: rgba(140,140,140, 0.5)
-  caption: "Particle tracking within reactor"
-classes: wide
----
+# Computational Fluid Dynamics: There and Back Again
+
 
 ## Case Study
 For my BEng design project I was tasked with the design of a gas liquid reactor. Specifically pertaining to the reaction of carbon monoxide, methanol, and ethylene to produce methyl propionate. Two gases and a liquid react to form a liquid. 
