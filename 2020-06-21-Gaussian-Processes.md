@@ -1,14 +1,5 @@
----
-title:  "Gaussian Processes - A brief tutorial"
-layout: single
-author_profile: true 
-excerpt: "A small Gaussian Process tutorial adapted from a course I recently gave to incoming Masters students to Dongda Zhang's group at the University of Manchester. I've also presented a similar talk at Seoul National University"
-header:
-  overlay_image: /assets/images/output_15_4.png
-  overlay_filter: rgba(100,100,100, 0.5)
-  caption: "Gaussian process prior"
-classes: wide
----
+# Gaussian Processes - A brief tutorial
+
 
 ### Begin by importing python modules:
 
