@@ -1,14 +1,4 @@
----
-title:  "Hamiltonian Monte Carlo - A Brief Sample"
-layout: single
-author_profile: true 
-excerpt: "A small implementation of Hamilitonian Monte Carlo sampling using automatic differentiation in Python"
-header:
-  overlay_image: /assets/images/HMC7.png
-  overlay_filter: rgba(140,140,140, 0.5)
-  caption: "HMC samples of a probability distribution"
-classes: wide
----
+# Hamiltonian Monte Carlo - A Brief Sample
 
 # Problem Statement - an optimisation viewpoint
 
