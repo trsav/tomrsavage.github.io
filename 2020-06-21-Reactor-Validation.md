@@ -59,7 +59,7 @@ I changed my impeller dimensions and my reactor was showing signs of becoming we
 After a brief mechanical design validation in ANSYS Static, I was able to produce a reactor schematic. 
 
 <p align="center">
-<img src="/assets/images/drawing.png" width="50%">
+<img src="/assets/images/drawing.PNG" width="50%">
 </p>
 
 
