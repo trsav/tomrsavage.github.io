@@ -23,7 +23,7 @@ DOI: 10.1016/B978-0-12-823377-1.50013-6
 **Thomas Savage**, Fernando Almeida-Trasvina, Ehecatl A. del Rio-Chanona, Robin Smith, and Dongda Zhang
 _IFAC-PapersOnLine - IFAC 2020_ 2019
 
-### **Model-Free Safe Reinforcement Learning for Chemical Processes Using Gaussian Processes**
+### "**Model-Free Safe Reinforcement Learning for Chemical Processes Using Gaussian Processes**"
 
 **Thomas Savage**, Dongda Zhang, Max Mowbray, Ehecatl Antonio del Rio-Chanona
 _IFAC-PapersOnLine -11th IFAC International Symposium on Advanced Control of Chemical Processes_ 
@@ -35,9 +35,11 @@ Max Mowbray, **Thomas Savage**, Chufan Wu, Ziqi Song, Bovinille Anye Cho, Ehecat
 _Biochemical Engineering Journal_ 2021
 Under Review
 
+### "An integrated dimensionality reduction and surrogate optimization approach for plant-wide chemical process operation"
 
-
-
+Thomas Savage, Fernando Trasvina-Almeida, Ehecatl Del Rio-Chanona, Robin Smith, Dongda Zhang
+_AIChE Journal_ 2021
+Under Review
 
 
 
