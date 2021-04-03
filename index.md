@@ -6,12 +6,11 @@ I am also the Co-Director of Engineering and Informatics at [Pramanta Sciences](
 
 ---
 
-### For a list of awards, scholarships, invited presentations, lectures, and courses click [here.](other.md)
+ For a list of awards, scholarships, invited presentations, lectures, and courses click [here.](other.md)
 
-### [Click here for a list of publications](publications.md)
+ [Click here for a list of publications](publications.md)
 
 ---
-
 # Posts
 
 * [Particle Swarm Optimisation](2020-06-20-Particle-Swarm.md) 
