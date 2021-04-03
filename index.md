@@ -6,7 +6,9 @@ I am also the Co-Director of Engineering and Informatics at [Pramanta Sciences](
 
 ---
 
-## [Click here for a list of publications](publications.md)
+### For a list of awards, scholarships, invited presentations, lectures, and courses click [here.](other.md)
+
+### [Click here for a list of publications](publications.md)
 
 ---
 
