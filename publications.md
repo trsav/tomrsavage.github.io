@@ -37,7 +37,7 @@ Under Review
 
 ### "An integrated dimensionality reduction and surrogate optimization approach for plant-wide chemical process operation"
 
-Thomas Savage, Fernando Trasvina-Almeida, Ehecatl Del Rio-Chanona, Robin Smith, Dongda Zhang
+**Thomas Savage**, Fernando Trasvina-Almeida, Ehecatl Del Rio-Chanona, Robin Smith, Dongda Zhang
 _AIChE Journal_ 2021
 Under Review
 
