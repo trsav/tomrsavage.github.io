@@ -33,7 +33,7 @@ Accepted for presentation
 
 Max Mowbray, **Thomas Savage**, Chufan Wu, Ziqi Song, Bovinille Anye Cho, Ehecatl A. Del Rio-Chanona
 _Biochemical Engineering Journal_ 2021
-Under Review
+Accepted for publication
 
 ### "An integrated dimensionality reduction and surrogate optimization approach for plant-wide chemical process operation"
 
