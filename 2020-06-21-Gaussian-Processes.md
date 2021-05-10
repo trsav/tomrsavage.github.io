@@ -226,7 +226,7 @@ def squared_exp(params,x1,x2):
     l = params[0]     # length scale
     sig = params[1]   # variance
     sig_n = params[2] # noise parameter 
-    return (sig**2 * np.exp(-((x1-x2)/2*l**2)**2))+sig_n
+    return (sig**2 * np.exp(-((x1-x2)**2/2*l**2)))+sig_n
 
 #--- plotting how covariance varies between two points ---#
 x_1 = 0 
