@@ -31,9 +31,10 @@ Accepted for presentation
 
 ### [**"Machine learning for biochemical engineering: A review"**](https://doi.org/10.1016/j.bej.2021.108054)
 
-Max Mowbray, **Thomas Savage**, Chufan Wu, Ziqi Song, Bovinille Anye Cho, Ehecatl A. Del Rio-Chanona
+Max Mowbray<sup>1</sup>, **Thomas Savage**,<sup>1</sup> Chufan Wu, Ziqi Song, Bovinille Anye Cho, Ehecatl A. Del Rio-Chanona, Dongda Zhang
 _Biochemical Engineering Journal_ 2021
 DOI: 10.1016/j.bej.2021.108054
+1. Contributed equally to this publication
 
 ### "An integrated dimensionality reduction and surrogate optimization approach for plant-wide chemical process operation"
 
