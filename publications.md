@@ -29,11 +29,11 @@ _IFAC-PapersOnLine - IFAC 2020_ 2019
 _IFAC-PapersOnLine -11th IFAC International Symposium on Advanced Control of Chemical Processes_ 
 Accepted for presentation 
 
-### **"Machine learning for biochemical engineering: A review"**
+### [**"Machine learning for biochemical engineering: A review"**](https://doi.org/10.1016/j.bej.2021.108054)
 
 Max Mowbray, **Thomas Savage**, Chufan Wu, Ziqi Song, Bovinille Anye Cho, Ehecatl A. Del Rio-Chanona
 _Biochemical Engineering Journal_ 2021
-Accepted for publication
+DOI: 10.1016/j.bej.2021.108054
 
 ### "An integrated dimensionality reduction and surrogate optimization approach for plant-wide chemical process operation"
 
