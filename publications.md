@@ -47,7 +47,6 @@ DOI: 10.1016/j/bej.2021.108096
 
 **Thomas Savage**, Fernando Trasvina-Almeida, Ehecatl Del Rio-Chanona, Robin Smith, Dongda Zhang
 _AIChE Journal_ 2021
-
 _Accepted for publication_
 
 
