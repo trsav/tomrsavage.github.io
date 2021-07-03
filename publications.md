@@ -43,12 +43,11 @@ Wei Xiong, Bo Liu, Keju Jing, **Thomas R. Savage**
 _Biochemical Engineering Journal_ 2021
 DOI: 10.1016/j/bej.2021.108096
 
-### "**An integrated dimensionality reduction and surrogate optimization approach for plant-wide chemical process operation**"
+### ["**An integrated dimensionality reduction and surrogate optimization approach for plant-wide chemical process operation**"](https://doi.org/10.1002/aic.17358)
 
 **Thomas Savage**, Fernando Trasvina-Almeida, Ehecatl Del Rio-Chanona, Robin Smith, Dongda Zhang
 _AIChE Journal_ 2021
-_Accepted for publication_
-
+DOI: 10.1002/aic.17358
 
 
 
