@@ -10,11 +10,6 @@ I am also the Co-Director of Engineering and Informatics at [Pramanta Sciences](
 
  [Click here for a list of publications](publications.md)
 
-<a href="https://orcid.org/0000-0001-8715-8369">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
-https://orcid.org/0000-0001-8715-8369
-</a>
-
 ---
 # Posts
 
