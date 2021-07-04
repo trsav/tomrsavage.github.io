@@ -25,13 +25,13 @@
 # Courses 
 These are courses or tutorial style presentations I have previously given in group meetings.
 * Gaussian Processes (4+ hours)
-* Tensorial Data Analysis (1 hour)
-* Derivative Free Optimisation (4 hours)
+* [Tensorial Data Analysis (1 hour)](assets/presentations/tensorial_data_analytics.pdf)
+* [Derivative Free Optimisation (4 hours)](assets/presentations/DFO_Tom_Savage.pdf)
 * Stochastic Search Optimisation (2 hours)
-* Bayesian System Identification (1 hour)
-* Adaptive Multiscale Predictive Modelling (2 hours)
+* [Bayesian System Identification (1 hour)](assets/presentations/bayesian_system_identification.pdf)
+* [Adaptive Multiscale Predictive Modelling (2 hours)](assets/presentations/ampm.pdf)
 
 ---
 
-_Updated 03/04/2021_
+_Updated 04/06/2021_
 
