@@ -12,6 +12,7 @@
 # Invited Lectures & Oral Presentations 
 
 * Knowledge-Graph-Based Digital Twin of the UK Gas Grid, Mitigation Solutions, Climate EXP0 
+![Climate Exp0 Poster](assets/images/climateexp0.png "Climate Exp0 Poster")
 * 30th European Symposium on Computer Aided Process Engineering
 * Lecture on Gaussian Processes for Real-Time Optimisation, Seoul National University 
 * 3rd International Conference on Machine Learning and AI in (Bio)Chemical Engineering , University of Cambridge 
