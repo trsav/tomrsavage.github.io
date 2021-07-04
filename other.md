@@ -21,7 +21,7 @@
   * First undergraduate to present in 30+ year consortium history. 
 * Lecture on Stochastic Optimisation, 2nd year Chemical Engineering undergraduate course, University of Manchester
 * Summer Research Internship Showcase, University of Manchester 
-
+![Internship Poster](assets/images/summerposter.png "Summer Internship Poster")
 # Courses 
 These are courses or tutorial style presentations I have previously given in group meetings.
 * Gaussian Processes (4+ hours)
