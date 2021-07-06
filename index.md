@@ -4,7 +4,7 @@
 | Degree | Dates     | Group                                                        | Location                 | Supervisor                 |
 | :----- | --------- | :----------------------------------------------------------- | ------------------------ | -------------------------- |
 | PhD    | 2021-2024 | [Optimisation and Machine Learning for PSE](https://www.imperial.ac.uk/optimisation-and-machine-learning-for-process-engineering/) | Imperial College London  | Dr Antonio Del Rio Chanona |
-| MPhil  | 2020-2021 | [Computational Modelling](https://ww.como.ceb.cam.ac.uk)     | University of Cambridge  | Professor Markus Kraft     |
+| MPhil  | 2020-2021 | [Computational Modelling](https://www.como.ceb.cam.ac.uk)     | University of Cambridge  | Professor Markus Kraft     |
 | BEng   | 2017-2020 | Bioprocess Systems Engineering and Machine Learning          | University of Manchester | Dr Dongda Zhang            |
 
 * Additionally I am Director of Engineering at [Pramanta Sciences](https://www.pramanta.com)
