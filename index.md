@@ -7,14 +7,14 @@
 | MPhil  | 2020-2021 | [Computational Modelling](https://www.como.ceb.cam.ac.uk)     | University of Cambridge  | Professor Markus Kraft     |
 | BEng   | 2017-2020 | Bioprocess Systems Engineering and Machine Learning          | University of Manchester | Dr Dongda Zhang            |
 
-* Additionally I am Director of Engineering at [Pramanta Sciences](https://www.pramanta.com)
+Additionally I am Director of Engineering at [Pramanta Sciences](https://www.pramanta.com)
 
 
 ---
 
- For a list of awards, scholarships, invited presentations, lectures, and courses click [here.](other.md)
+[Click here for a list of awards, scholarships, invited presentations, lectures, and courses.](other.md)
 
- [Click here for a list of publications](publications.md)
+[Click here for a list of publications](publications.md)
 
 ---
 # Posts
