@@ -1,12 +1,11 @@
 ## About Me
 
-* From October: PhD supervised by [Dr Antonio Del Rio Chanona](https://www.imperial.ac.uk/people/a.del-rio-chanona) within the CPSE Optimisation and Machine Learning group @ Imperial College London. Themes include: _black box optimisation, control, distributed optimisation, energy systems, bioprocesses._
-
-* Currently: MPhil in the [Computational Modelling Group](https://como.ceb.cam.ac.uk) @ Department of Chemical Engineering & Biotechnology, Universty of Cambridge. Themes include: _knowledge graphs, national-scale digital twins, UK climate and energy systems._
-
-* Previously: BEng in Chemical Engineering @ University of Manchester. Themes included: _modelling & opimimisation of large scale chemical processes, bioprocess modelling, surrogate optimisation and machine learning._
-
-* Additionally: I am Director of Engineering at [Pramanta Sciences](https://www.pramanta.com)
+| Degree | Dates     | Group                                                        | Location                 | Supervisor                 |
+| :----- | --------- | :----------------------------------------------------------- | ------------------------ | -------------------------- |
+| PhD    | 2021-2024 | [Optimisation and Machine Learning for PSE](https://www.imperial.ac.uk/optimisation-and-machine-learning-for-process-engineering/) | Imperial College London  | Dr Antonio Del Rio Chanona |
+| MPhil  | 2020-2021 | [Computational Modelling](https://ww.como.ceb.cam.ac.uk)     | University of Cambridge  | Professor Markus Kraft     |
+| BEng   | 2017-2020 | Bioprocess Systems Engineering and Machine Learning          | University of Manchester | Dr Dongda Zhang            |
+* Additionally I am Director of Engineering at [Pramanta Sciences](https://www.pramanta.com)
 
 
 ---
