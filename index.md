@@ -1,8 +1,13 @@
 ## About Me
 
-I am currently at the University of Cambridge doing a research MPhil in the [Computational Modelling Group](https://como.ceb.cam.ac.uk) at the department of Chemical Engineering & Biotechnology. My work focusses on building knowledge graphs and creating agents to realise a digital-twin of the UK one triple at a time. Previously I was at University of Manchester enabling the optimisation of large scale chemical processes using machine learning alongside my undergraduate course. From October I'll be doing a [PhD at Imperial](https://www.imperial.ac.uk/optimisation-and-machine-learning-for-process-engineering/about-us/) focussed on machine learning and optimisation for bioprocesses. I am published and have reviewed for chemical and biochemical engineering journals and conferences.
+* From October: PhD supervised by [Dr Antonio Del Rio Chanona](https://www.imperial.ac.uk/people/a.del-rio-chanona) within the CPSE Optimisation and Machine Learning group @ Imperial College London. Themes include: _black box optimisation, control, distributed optimisation, energy systems, bioprocesses._
 
-I am also the Co-Director of Engineering and Informatics at [Pramanta Sciences](https://www.pramanta.com) where we help inform Biotech investment decisions using bottom up analysis.
+* Currently: MPhil in the [Computational Modelling Group](https://como.ceb.cam.ac.uk) @ Department of Chemical Engineering & Biotechnology, Universty of Cambridge. Themes include: _knowledge graphs, national-scale digital twins, UK climate and energy systems._
+
+* Previously: BEng in Chemical Engineering @ University of Manchester. Themes included: _modelling & opimimisation of large scale chemical processes, bioprocess modelling, surrogate optimisation and machine learning._
+
+* Additionally: I am Director of Engineering at [Pramanta Sciences](https://www.pramanta.com)
+
 
 ---
 
