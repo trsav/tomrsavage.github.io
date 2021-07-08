@@ -9,15 +9,13 @@
 
 Additionally I am Director of Engineering at [Pramanta Sciences](https://www.pramanta.com)
 
-
----
-
 [Click here for a list of awards, scholarships, invited presentations, lectures, and courses.](other.md)
 
 [Click here for a list of publications](publications.md)
 
 ---
-# Posts
+
+## Posts
 
 * [Particle Swarm Optimisation](2020-06-20-Particle-Swarm.md) 
 * [Gaussian Process Tutorial](2020-06-21-Gaussian-Processes.md)
