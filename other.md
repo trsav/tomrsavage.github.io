@@ -14,8 +14,6 @@
 
 * **Travel Scholarships for Conference Attendance** - £240  
 
-  ---
-
   
 
 # Invited Lectures & Oral Presentations 
@@ -37,8 +35,6 @@
 * Lecture on Stochastic Optimisation, 2nd year Chemical Engineering undergraduate course, University of Manchester
 
 * [Summer Research Internship Showcase, University of Manchester](assets/images/summerposter.png)
-
-  ---
 
   
 # Courses 
