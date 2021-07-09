@@ -23,11 +23,11 @@
 # Courses 
 These are courses or tutorial style presentations I have previously given in group meetings.
 * Gaussian Processes (4+ hours)
-* [Tensorial Data Analysis (1 hour) ![icon](https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png)](assets/presentations/tensorial_data_analytics.pdf)
-* [Derivative Free Optimisation (4 hours)![icon](https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png)](assets/presentations/DFO_Tom_Savage.pdf)
+* [Tensorial Data Analysis (1 hour) <img src="https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png" width="16" height="16" />](assets/presentations/tensorial_data_analytics.pdf)
+* [Derivative Free Optimisation (4 hours)<img src="https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png" width="16" height="16" />](assets/presentations/DFO_Tom_Savage.pdf)
 * Stochastic Search Optimisation (2 hours)
-* [Bayesian System Identification (1 hour)![icon](https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png)](assets/presentations/bayesian_system_identification.pdf)
-* [Adaptive Multiscale Predictive Modelling (2 hours)![icon](https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png)](assets/presentations/ampm.pdf)
+* [Bayesian System Identification (1 hour)<img src="https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png" width="16" height="16" />](assets/presentations/bayesian_system_identification.pdf)
+* [Adaptive Multiscale Predictive Modelling (2 hours)<img src="https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png" width="16" height="16" />](assets/presentations/ampm.pdf)
 
 ---
 
