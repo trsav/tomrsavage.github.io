@@ -11,8 +11,7 @@
 
 # Invited Lectures & Oral Presentations 
 
-* Knowledge-Graph-Based Digital Twin of the UK Gas Grid, Mitigation Solutions, Climate EXP0 
-![Climate Exp0 Poster](assets/images/climateexp0.png "Climate Exp0 Poster")
+* [Knowledge-Graph-Based Digital Twin of the UK Gas Grid, Mitigation Solutions, Climate EXP0](assets/images/climateexp0.png)
 * 30th European Symposium on Computer Aided Process Engineering
 * Lecture on Gaussian Processes for Real-Time Optimisation, Seoul National University 
 * 3rd International Conference on Machine Learning and AI in (Bio)Chemical Engineering , University of Cambridge 
@@ -20,18 +19,17 @@
 * Process Integration Research Consortium, University of Manchester
   * First undergraduate to present in 30+ year consortium history. 
 * Lecture on Stochastic Optimisation, 2nd year Chemical Engineering undergraduate course, University of Manchester
-* Summer Research Internship Showcase, University of Manchester 
-![Internship Poster](assets/images/summerposter.png "Summer Internship Poster")
+* [Summer Research Internship Showcase, University of Manchester](assets/images/summerposter.png)
 # Courses 
 These are courses or tutorial style presentations I have previously given in group meetings.
 * Gaussian Processes (4+ hours)
-* [Tensorial Data Analysis (1 hour)](assets/presentations/tensorial_data_analytics.pdf)
-* [Derivative Free Optimisation (4 hours)](assets/presentations/DFO_Tom_Savage.pdf)
+* [Tensorial Data Analysis (1 hour) ![icon](https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png)](assets/presentations/tensorial_data_analytics.pdf)
+* [Derivative Free Optimisation (4 hours)![icon](https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png)](assets/presentations/DFO_Tom_Savage.pdf)
 * Stochastic Search Optimisation (2 hours)
-* [Bayesian System Identification (1 hour)](assets/presentations/bayesian_system_identification.pdf)
-* [Adaptive Multiscale Predictive Modelling (2 hours)](assets/presentations/ampm.pdf)
+* [Bayesian System Identification (1 hour)![icon](https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png)](assets/presentations/bayesian_system_identification.pdf)
+* [Adaptive Multiscale Predictive Modelling (2 hours)![icon](https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png)](assets/presentations/ampm.pdf)
 
 ---
 
-_Updated 04/06/2021_
+_Updated 09/07/2021_
 
