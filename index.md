@@ -13,8 +13,6 @@ Additionally I am Director of Engineering at [Pramanta Sciences](https://www.pra
 
 [Click here for a list of publications](publications.md)
 
-[Click for my twitter page](https://twitter.com/Savage_Tom)
-
 ---
 
 ## Posts
