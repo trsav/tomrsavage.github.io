@@ -1,3 +1,12 @@
+### ["**Universal Digital Twin - Integration of national-scale energy systems and climate data**"](https://como.ceb.cam.ac.uk/preprints/279/)
+
+**Thomas Savage**, Jethro Akroyd, Sebastian Mosbach, Nenad Krdzavac, Michael Hillman, Markus Kraft
+_c4e-Preprint Series, Cambridge_ 2021
+https://como.ceb.cam.ac.uk/preprints/279/
+
+---
+
+
 ### ["**An integrated dimensionality reduction and surrogate optimization approach for plant-wide chemical process operation**"](https://doi.org/10.1002/aic.17358)
 
 **Thomas Savage**, Fernando Trasvina-Almeida, Ehecatl Del Rio-Chanona, Robin Smith, Dongda Zhang
