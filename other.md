@@ -29,6 +29,7 @@ These are courses or tutorial style presentations I have previously given in gro
 * Stochastic Search Optimisation (2 hours)
 * [Bayesian System Identification (1 hour)<img src="https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png" width="16" height="16" />](assets/presentations/bayesian_system_identification.pdf)
 * [Adaptive Multiscale Predictive Modelling (2 hours)<img src="https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png" width="16" height="16" />](assets/presentations/ampm.pdf)
+* [The Philosophy of Gas Transmission<img src="https://www.adobe.com/content/dam/cc/en/legal/images/badges/PDF_32.png" width="16" height="16" />](assets/presentations/tpogt.pdf)
 
 ---
 
