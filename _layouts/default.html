@@ -20,12 +20,6 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
         <a href="https://github.com/trsav">
           <img alt="Github logo" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" height="16" />
           View My GitHub <br>
@@ -67,11 +61,6 @@
       {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
