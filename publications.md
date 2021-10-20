@@ -1,3 +1,20 @@
+### ["**Kinetic and hybrid modelling for yeast astaxanthin production under uncertainty**"](https://doi.org/10.1002/bit.27950)
+
+Fernando Vega-Ramon, Xianfeng Zhu, **Thomas Savage**, Panagiotis Petsagkourakis, Keju Jing, Dongda Zhang
+_Biotechnology & Bioengineering_ 2021
+DOI: 10.1002/bit.27950
+---
+
+
+### ["**Data-driven optimization for process systems engineering applications**"](https://doi.org/10.1016/j.ces.2021.117135)
+
+Damien van de Berg, **Thomas Savage**, Panagiotis Petsagkourakis, Dnogda Zhang, Nilay Shah, Ehecatl Antonio del Rio-Chanona
+_Chemical Engineering Science_ 2021
+DOI: 10.1016/j.ces.2021.117135
+---
+
+
+
 ### ["**Universal Digital Twin - the impact of heat pumps on inequality**"](https://como.ceb.cam.ac.uk/preprints/281/)
 
 **Thomas Savage**, Jethro Akroyd, Sebastian Mosbach, Michael Hillman, Franziska Sielker, Markus Kraft
