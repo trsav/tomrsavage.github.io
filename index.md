@@ -7,7 +7,7 @@
 | MPhil  | 2020-2021 | [Computational Modelling](https://como.ceb.cam.ac.uk)     | University of Cambridge  | Professor Markus Kraft     |
 | BEng   | 2017-2020 | Bioprocess Systems Engineering and Machine Learning          | University of Manchester | Dr Dongda Zhang            |
 
-Additionally, I am Chief Technology Officer (CTO) at [Pramanta Sciences](https://www.pramanta.com)
+Additionally, I am Co-founder and Chief Technology Officer (CTO) at CRVS Technologies.
 
 [Click here for a list of awards, scholarships, invited presentations, lectures, and courses.](other.md)
 
