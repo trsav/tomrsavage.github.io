@@ -7,7 +7,6 @@
 | MPhil  | 2020-2021 | [Computational Modelling](https://como.ceb.cam.ac.uk)     | University of Cambridge  | Professor Markus Kraft     |
 | BEng   | 2017-2020 | Bioprocess Systems Engineering and Machine Learning          | University of Manchester | Dr Dongda Zhang            |
 
-Additionally, I am Co-founder and Chief Technology Officer (CTO) at [Old Neale - the automated analyst for biotech](https://oldneale.com)
 
 [Click here for a list of awards, scholarships, invited presentations, lectures, and courses.](other.md)
 
